@@ -1,2 +1,5 @@
-# PrimeGenerator
-Simple prime number generator written in C++
+# Usage
+Just compile and run, CLI provides interface.
+
+#TODO
+Switch implementations to linked lists, to avoid cost of resizing vectors.
